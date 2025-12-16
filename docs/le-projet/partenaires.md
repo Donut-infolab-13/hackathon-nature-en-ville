@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Partenaires
 
-## 🌱 GERM - Porteur initial du projet
+## 🌱 GERM
 
 **[GERM](https://www.germ-sud.fr/)** (Gestion Écologique et Renaturation des Milieux) a de toute évidence permis de faire naître ce projet. L'association propose de mettre le vivant au cœur de l'appropriation de l'espace public. 
 
